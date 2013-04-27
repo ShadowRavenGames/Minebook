@@ -1,0 +1,32 @@
+[
+{
+
+	"modid": "minebook",
+
+	"name": "Minebook",
+
+	"description": "Minecraft Social Network",
+
+	"version": "1.2.4",
+
+	"mcversion": "1.5.1",
+
+	"logoFile": "/minebook.png",
+
+	"url": "http://minebook.co.uk/",
+
+	"updateUrl": "http://minebook.co.uk/version",
+
+	"authors": ["MRVDOG", "Jadar"],
+
+	"credits": "Mod by MRVDOG, Cape API by Jadar",
+
+	"parent": "",
+
+	"screenshots": [],
+
+	"dependencies": [
+	]
+
+}
+]
